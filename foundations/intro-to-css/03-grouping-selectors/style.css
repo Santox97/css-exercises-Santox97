@@ -1,0 +1,12 @@
+.black-btm,.yellow-btm{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+.black-btm{
+    background-color: black;
+    color: white;
+}
+.yellow-btm{
+    background-color: yellow;
+    color: black;
+}

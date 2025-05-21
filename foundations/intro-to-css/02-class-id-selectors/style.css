@@ -1,0 +1,23 @@
+#Number2{
+    color: blue;
+    font-size: 36px;
+}
+#Number4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd, .odd1,.odd2,.odd3{
+    background-color: pink;
+}
+.odd1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.odd2{
+    font-family: "DejaVu Sans";
+    font-size: 24px;
+}
+.odd3{
+    font-family: sans-serif;
+}
